@@ -43,3 +43,4 @@ Este repositório está organizado de forma progressiva:
 
 ## ▶️ Como rodar os exemplos
 1. Baixe ou clone este repositório
+2. Rode através da extenção LiveServer do VSCode 
