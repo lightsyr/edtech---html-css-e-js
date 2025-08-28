@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Eventos</title>
+</head>
+
+<body>
+    <h1>Eventos em JavaScript</h1>
+    <input type="text" id="campo" placeholder="Digite algo...">
+    <p id="saida"></p>
+
+    <script>
+        const campo = document.getElementById("campo");
+        const saida = document.getElementById("saida");
+
+        campo.addEventListener("input", () => {
+            saida.innerText = "Você digitou: " + campo.value;
+        });
+    </script>
+</body>
+
+</html>
