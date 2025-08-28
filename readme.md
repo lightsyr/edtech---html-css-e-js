@@ -34,7 +34,7 @@ Este repositório está organizado de forma progressiva:
    - Manipulação do DOM  
    - Eventos e interatividade  
 
-4. **04-mini-projects/** → Pequenos projetos práticos  
+4. **04-Mini Projetos/** → Pequenos projetos práticos  
    - Contador  
    - Lista de tarefas (To-do list)  
    - Calculadora simples  
